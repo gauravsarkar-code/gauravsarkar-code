@@ -1,3 +1,4 @@
+![logo](https://github.com/gauravsarkar-code/gauravsarkar-code/blob/main/Gaurav%20git%20banner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Sarkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
