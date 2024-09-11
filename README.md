@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="[50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzE1YmIxY2M1eG1hcGRpcXM3MXFzNXFwN3F5cnA3ZTA0dHNlbTZ5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="[50" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611pcihgc5uo527e4eeszr0pud8f7iycq787xqmaogm&ep=v1_gifs_search&rid=giphy.gif">
 
 - 🔭 I’m currently working on **full stack**
 
