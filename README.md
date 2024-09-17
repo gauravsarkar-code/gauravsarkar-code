@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gauravsarkar-code](https://github.com/gauravsarkar-code)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/gauravsarkar-code)
 
 - 💬 Ask me about **react, vue and gsap**
 
 - 📫 How to reach me **Gaurav.Sarkar@HelloWorldLab.org**
 
-- 📄 Know about my experiences from [my resume](https://drive.google.com/file/d/1oTfKlWGeADo658BeqEKZ9ySormKvSUEA/view?usp=sharing](https://drive.google.com/file/d/13D8T3S27t33C-7UgxW91rTt5sQeABw0i/view?usp=sharing).
+- 📄 Know about my experiences from [my resume](https://drive.google.com/file/d/13D8T3S27t33C-7UgxW91rTt5sQeABw0i/view?usp=sharing).
 
 - ⚡ Fun fact **I think I am funny**
 
