@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Gaurav.Sarkar@HelloWorldLab.org**
 
-- 📄 Know about my experiences from [my resume]([https://drive.google.com/file/d/1oTfKlWGeADo658BeqEKZ9ySormKvSUEA/view?usp=sharing](https://drive.google.com/file/d/13D8T3S27t33C-7UgxW91rTt5sQeABw0i/view?usp=sharing))
+- 📄 Know about my experiences from [my resume](https://drive.google.com/file/d/1oTfKlWGeADo658BeqEKZ9ySormKvSUEA/view?usp=sharing](https://drive.google.com/file/d/13D8T3S27t33C-7UgxW91rTt5sQeABw0i/view?usp=sharing).
 
 - ⚡ Fun fact **I think I am funny**
 
