@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="[https://gauravsarkar.helloworldlab.org/" target="blank"><img align="center" src="https://github.com/gauravsarkar-code/gauravsarkar-code/blob/main/Hello%20World%20Lab%20logo" alt="gauravsarkar.helloworldlab.org" height="30" width="40" /></a>
+<a href="https://gauravsarkar.helloworldlab.org/" target="blank"><img align="center" src="https://github.com/gauravsarkar-code/gauravsarkar-code/blob/main/Hello%20World%20Lab%20logo" alt="gauravsarkar.helloworldlab.org" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-sarkar-930666144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-sarkar-930666144" height="30" width="40" /></a>
 <a href="https://instagram.com/g._a._u._r_a_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g._a._u._r_a_v" height="30" width="40" /></a>
 </p>
