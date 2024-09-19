@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences from [my resume](https://drive.google.com/file/d/13D8T3S27t33C-7UgxW91rTt5sQeABw0i/view?usp=sharing).
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny** and also visit [my website](https://gauravsarkar.helloworldlab.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
